@@ -1,0 +1,24 @@
+# String Indexes
+# Andrew Jochl
+# June, 27 2026
+
+# ===== CODE BELOW HERE =====
+my_string = "me me me"
+my_numbers = "01234567"
+
+print(my_string[0])
+
+print(my_string[4])
+
+# [start,stop,stepover]
+print(my_numbers[::2])
+
+print(my_numbers[::-2])
+
+print(my_numbers[::-1])
+
+
+# ===== CODE ABOVE HERE =====
+
+# NOTES
+#
